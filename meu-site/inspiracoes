@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inspirações</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Interesses</a></li>
+        <li><a href="projeto.html">Projeto</a></li>
+        <li><a href="inspiracoes.html">Inspirações</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Minhas Inspirações</h1>
+
+    <p>
+      A vontade de me tornar um profissional competente, não atrelado a uma empresa ou dependente de uma ferramenta específica. Quero ter a liberdade de buscar sempre as melhores oportunidades no mercado, aquelas que mais me favoreçam, que estejam alinhadas com meus valores e que estimulem minha carreira.
+    </p>
+    
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Rafael Fernandes de Lucena</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
