@@ -16,7 +16,6 @@ body {
   flex-direction: column;
 }
 
-/* Cabeçalho */
 header {
   background-color: #292b2c;
   padding: 1rem 0;
@@ -43,7 +42,6 @@ nav ul li a:hover {
   color: #d4d4d4;
 }
 
-/* Conteúdo principal */
 main {
   flex: 1;
   max-width: 800px;
@@ -68,7 +66,6 @@ p {
   text-align: justify;
 }
 
-/* Rodapé */
 footer {
   background-color: #292b2c;
   color: #fff;
