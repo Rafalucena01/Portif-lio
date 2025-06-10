@@ -1,2 +1,3 @@
-# Portif-lio
-Portifólio para matéria de introdução a computação
+# Meu Portfólio
+
+Avaliação baseada em criar um site com meu próprio portfólio.
